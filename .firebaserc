@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "akuindia-dev"
+  },
+    "targets": {
+    "akuindia-dev": {
+      "hosting": {
+        "akuindia-website": [
+          "public"
+        ]
+      }
+    }
+  }
+}
